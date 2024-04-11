@@ -17,6 +17,7 @@ public class CurrencyConverter {
 
     public boolean isValidRate(BigDecimal valueOf) {
         // TODO Auto-generated method stub
+        // Tip: Use BigDecimal compareTo() method
         return false;
     }
 
